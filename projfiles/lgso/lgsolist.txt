@@ -1,1 +1,11 @@
-# Empty for now.
+# 3089
+/3089
+# 3809
+/.3089
+# 7 Days to Die
+/Documents/7 Days To Die
+# Blade of Destiny
+/BladeofDestiny
+# Planet Explorers
+/PlanetExplorers
+

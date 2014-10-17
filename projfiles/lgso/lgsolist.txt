@@ -4,8 +4,106 @@
 /.3089
 # 7 Days to Die
 /Documents/7 Days To Die
+# Amnesia
+/.frictionalgames/Amnesia
+# And Yet It Moves
+/.Broken Rules/And Yet It Moves
+# Anomaly 2
+/.Anomaly 2
+# Bards Tale
+/.local/share/BardTale
 # Blade of Destiny
 /BladeofDestiny
+# Blockstorm
+/.config/unity3d/IndieGala/Blockstorm
+# Borderlands 2
+/.local/share/aspyr-media/borderlands 2
+# Bridge Constructor
+/.config/unity3d/ClockStone Software GmbH/Bridge Constructor
+# Broken Sword 2
+/.bs2
+# Capsized
+/.local/share/Capsized
+# Cave Story +
+/.local/share/CaveStory+
+# Defenders Quest
+/.appdata/DefendersQuest
+# Dont Move
+/.config/com.steverichey.dontmove
+# Dungeon of Dredmor
+/.local/share/Dredmor
+# Dust: An Elysian Tail
+/.local/share/DustAET/
+# Eets 2
+/.klei/eets2
+# Fester Mudd
+/.config/unity3d/Replay Games/Fester Mudd _ Episode 1
+# Fez
+/.local/share/Fez
+# Floating Point
+/.config/unity3d/Tom Francis/Floating Point
+# Gateways
+/.local/share/Gateways
+# GunPoint
+/.local/share/gunpoint
+# Hammer Fight
+/.local/share/Hammerfight
+# Hoard
+/.local/share/BigSandwichGames/Hoard
+# Iesabel
+/.config/unity3d/Madman Theory Games S.A./Iesabel
+# Inescapable
+/.local/share/MagneticRealms/Inescapable
+# Intrusion 2
+/intrusion2
+# Ittle Dew
+/.config/unity3d/Ludosity/IttleDew
+# Kairo
+/.config/unity3d/Locked Door Puzzle/Kairo
+# Killing Floor
+/.killingfloor
+# Legend of Dungeon
+/.config/unity3d/RobotLovesKitty/Legend of Dungeon
+# Legends of Aethereus
+/.config/unity3d/Threegates/Legends of Aethereus
+# Level 22
+/.config/unity3d/Noego/LEVEL 22
+# LYNE
+/.config/unity3d/Thomas Bowker/LYNE
+# Mark of the Ninja
+/.klei/ninja
+# Paranautical Activity
+/.config/unity3d/Code Avarice/Paranautical Activity Beta
+# Perfection
+/.config/Project0
 # Planet Explorers
 /PlanetExplorers
+# Project Night
+/.config/unity3d/Riccardo Deias/Project Night
+# Rocket Birds
+/.local/share/rocketbirds
+# Runner 2
+/.config/gaijin_games/runner2
+# Rust
+/.config/unity3d/Facepunch Studios LTD/Rust
+# Solar 2
+/.solar2
+# Surgeon Simulator
+/.config/unity3d/Bossa Studios/Surgeon Simulator 2013
+# Sword of the Stars: The Pit
+/.config/ThePit
+# Teslagrad
+/.config/unity3d/unity3d/Rain/Teslagrad
+# The Book of Unwritten Tale
+/.bout
+# The Journey Down
+/.config/JourneyDownOne
+# The Swapper
+/.local/share/Facepalm Games/The Swapper 1000
+# Toki Tori 2 +
+/.local/share/twotribes/toki_tori_2+
+# Trine 2
+/.frozenbyte/Trine2
+# Type Rider
+/.config/unity3d/ExNihilo/Type:Rider
 

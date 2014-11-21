@@ -1,109 +1,597 @@
+# 0 A.D.
+/.local/share/0ad/
+# 10,000,000
+/.config/unity3d/EightyEightGames/10000000/
+# 1001 Spikes
+/.local/share/1001 spikes/
+# 3079
+~/3079Saves/
 # 3089
 /3089
-# 3809
+# 3089
 /.3089
 # 7 Days to Die
 /Documents/7 Days To Die
-# Amnesia
+# A Virus Named TOM
+/.local/share/CircuitGameData/
+# AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
+/.config/unity3d/Dejobaan Games/Awesome/
+# Always Remember Me
+/.renpy/Remember_Me-1.3
+# Amnesia: A Machine for Pigs
+/.frictionalgames/Amnesia/Pig/
+# Amnesia: The Dark Descent
 /.frictionalgames/Amnesia
 # And Yet It Moves
 /.Broken Rules/And Yet It Moves
+# Anna - Extended Edition
+/.config/unity3d/Dreampainters/AnnaEE/
+# Anodyne
+/Anodyne
 # Anomaly 2
 /.Anomaly 2
+# Anomaly Defenders
+~/.Anomaly Defenders/
+# Anomaly Korea
+~/.Anomaly Korea/
+# Anomaly Warzone Earth
+/.Anomaly/
+# Another World
+/.local/share/DotEMU/Another World/
+# Antichamber
+/.local/share/AlexanderBruce/Antichamber/
+# Aquaria
+/.local/share/Aquaria/
+# Arma Tactics
+/.config/unity3d/Bohemia Interactive/Arma Tactics/
+# Atom Zombie Smasher
+/.config/AtomZombieData/
+# Avadon: The Black Fortress
+/.local/share/Avadon/
+# Awesomenauts
+/.local/share/Awesomenauts/
+# Bad Hotel
+/.local/share/BadHotel/
+# Baldurs Gate: Enhanced Edition
+/.local/share/Baldurs Gate - Enhanced Edition/save/
+# Ballpoint Universe: Infinite
+/.config/unity3d/Arachnid Games/Ballpoint Universe/
 # Bards Tale
 /.local/share/BardTale
+# Bastion
+/.SupergiantGames/Bastion/
+# Battle Worlds: Kronos
+/Documents/BattleWorldsKronos/
+# Beat Hazard
+/.local/share/BeatHazard_Linux2/
+# Beatbuddy: Tale of the Guardians
+/.config/unity3d/Threaks/Beatbuddy/
+# Bionic Dues
+/.config/Arcen Games, LLC/Bionic Dues/
+# Bit.Trip Beat
+/.gaijin_games/bit.trip.beat/
+# Bit.Trip Presents Runner 2: Future Legend of Rhythm Alien
+/.local/share/gaijin_games/runner2/
+# Bit.Trip Runner
+/.gaijin_games/bit.trip.runner/
+# Blackwell Convergence
+/.local/share/Blackwell Convergence/
+# Blackwell Legacy
+/.local/share/Blackwell Legacy v1.7/
+# Blackwell Unbound
+/.local/share/Blackwell Unbound/
 # Blade of Destiny
 /BladeofDestiny
+# Blocks That Matter
+/.BlocksThatMatterUserDatas/
 # Blockstorm
-/.config/unity3d/IndieGala/Blockstorm
+/.config/unity3d/IndieGala/Blockstorm/
+# Blueberry Garden
+/.local/share/BlueberryGarden/
 # Borderlands 2
 /.local/share/aspyr-media/borderlands 2
+# Borderlands: The Pre-Sequel
+/.local/share/aspyr-media/borderlands the pre-sequel/willowgame/savedata/
+# Botanicula
+/Documents/BotaniculaSaves/
+# Braid
+/.Braid/
+# Breach and Clear
+/Documents/SavedGames/BreachClear
 # Bridge Constructor
 /.config/unity3d/ClockStone Software GmbH/Bridge Constructor
-# Broken Sword 2
-/.bs2
+# Broken Age
+/.local/share/doublefine/BrokenAge/saves/
+# Broken Sword 5 - The Serpents Curse
+/.bs5/
+# Broken Sword II: The Smoking Mirror - Remastered
+# Broken Sword: Shadow of the Templars: Directors Cut
+/.bs1dc/
+# Brutal Legend
+/.local/share/doublefine/brutallegend/
 # Capsized
 /.local/share/Capsized
+# Card City 
+/.config/unity3d/Ludosity/CardCityNights/
+# Cargo Commander
+/.config/unity3d/Serious Brew/Cargo Commander/
 # Cave Story +
 /.local/share/CaveStory+
+# Chocolate Castle
+/.lexaloffle/Chocolate Castle/
+# Cities in Motion
+/.local/share/Cities In Motion/
+# Cities in Motion 2
+/.config/unity3d/Colossal Order/Cities in Motion 2/
+# Civilization V
+/.local/share/Aspyr/Sid Meier's Civilization 5/Saves/
+# Closure
+/.local/share/Eyebrow Interactive/Closure/
+# Cogs
+/.local/share/Cogs/
+# Continue?9876543210
+/.config/unity3d/Jason Oda/continue/
+# Costume Quest
+/.local/share/doublefine/costumequest/
+# Costume Quest 2
+/.local/share/doublefine/Costume Quest 2/
+# Crayon Physics Deluxe
+/.CrayonPhysicsDeluxe/
+# Crusader Kings II
+/.paradoxinteractive/Crusader Kings II/
+# Cube 2: Sauerbraten
+/.sauerbraten/
+# Cubemen
+/.config/unity3d/3 Sprockets/Cubemen/
+# Cubemen 2
+/.config/unity3d/3 Sprockets/Cubemen2/
+# Darwinia
+~/.darwinia/
+# Deadfall Adventures
+/.local/share/Deadfall Adventures/
+# Dear Esther
+/.local/share/dearesther/
+# Defcon
+/.defcon/
 # Defenders Quest
 /.appdata/DefendersQuest
+# Democracy 3
+/.local/share/democracy3/
+# Deponia: The Complete Journey
+/.local/share/Daedalic Entertainment GmbH/Deponia The Complete Journey/
+# Dont Starve
+/.klei/DoNotStarve/
 # Dont Move
 /.config/com.steverichey.dontmove
-# Dungeon of Dredmor
+# Door Kickers
+/DoorKickers/
+# Dreamfall Chapters
+/.config/RedThreadGames/DreamfallChapters/
+# Dungeon Defenders
+/.local/share/DungeonDefenders/
+# Dungeon Hearts
+/.config/unity3d/CubeRoots/DungeonHearts/
+# Dungeons of Dredmor
 /.local/share/Dredmor
 # Dust: An Elysian Tail
 /.local/share/DustAET/
+# Dustforce
+/.HitboxTeam/Dustforce/
+# Dynamite Jack
+/.dynamitejack/
+# Dysfunctional Systems: Learning to Manage Chaos
+/.renpy/winter_ep1_patch2
+# Edge
+/.twotribes/edge/
 # Eets 2
 /.klei/eets2
+# Eets Munchies
+/.klei/eets2/
+# Electronic Super Joy
+/.config/unity3d/Michael Todd Games/Electronic Super Joy/
+# Electronic Super Joy: Groove City
+/.config/unity3d/Yazar Media Group/Groove City/
+# English Country Tune
+/.config/unity3d/increpare/English Country Tune/
+# Escape Goat
+/.local/share/Escape Goat/
+# Escape Goat 2
+/.local/share/Escape Goat 2/
+# Eufloria
+/.local/share/EufloriaHD/
+# Euro Truck Simulator 2
+/.local/share/Euro Truck Simulator 2/profiles/
+# Europa Universalis IV
+/.paradoxinteractive/Europa Universalis IV/
+# Expeditions: Conquistador
+/.local/share/Expeditions-Conquistador/Saves/
+# Faerie Solitaire
+/Faerie Solitaire/
+# FarSky
+/.FarSky/save/
 # Fester Mudd
 /.config/unity3d/Replay Games/Fester Mudd _ Episode 1
 # Fez
 /.local/share/Fez
+# Fieldrunners
+/.fieldrunners/
+# Fieldrunners 2
+/.local/share/com.subatomic/FieldRunners2/
+# Fist Puncher
+/.local/share/FistPuncher/
 # Floating Point
 /.config/unity3d/Tom Francis/Floating Point
+# Football Manager 2014
+/.local/share/Sports Interactive/Football Manager 2014/
+# Football Manager 2014
+/Sports Interactive/Football Manager 2014/
+# Fortix 2
+/.Fortix2/
+# Fotonica
+/.config/unity3d/Santa Ragione/FOTONICA/
+# Foul Play
+/.FoulPlay
+# Fractal: Make Blooms Not War
+/.config/unity3d/Cipher Prime Studios, Inc./Fractal/
+# Frozen Synapse
+/.local/share/FrozenSynapse/
+# FTL: Faster Than Light
+/.local/share/FasterThanLight/
+# Full Bore
+/.fullbore/
+# Game Dev Tycoon
+/.config/Game Dev Tycoon/
 # Gateways
 /.local/share/Gateways
-# GunPoint
+# Gemini Rue
+/.local/share/Gemini Rue/
+# Gish
+/.gish/
+# Glare
+/.config/unity3d/Phobic Studios/Glare/
+# Gods Will Be Watching
+/Gods_Will_Be_Watching/
+# Gone Home
+/.config/unity3d/The Fullbright Company/Gone Home/
+# Gratuitous Space Battles
+/.positech/GSB
+# Greed Corp
+/.config/unity3d/Vanguard Games/Greed Corp/
+# Guacamelee!
+/.local/share/Drinkbox Studios/Guacamelee/
+# Gunpoint
 /.local/share/gunpoint
-# Hammer Fight
+# Guns of Icarus Online
+/.config/unity3d/Muse Games/GunsOfIcarusOnline/
+# Hack n Slash
+/.local/share/doublefine/hacknslash/
+# Hammerfight
 /.local/share/Hammerfight
+# Heavy Bullets
+/.config/unity3d/TerriVellman/HEAVY BULLETS
+# Hero Academy
+/.local/share/RobotEntertainment/HeroAcademy/
 # Hoard
 /.local/share/BigSandwichGames/Hoard
 # Iesabel
 /.config/unity3d/Madman Theory Games S.A./Iesabel
+# Hotline Miami
+/.local/share/HotlineMiami/
 # Inescapable
 /.local/share/MagneticRealms/Inescapable
+# Insanely Twisted Shadow Planet
+/.local/share/Fuelcell/Insanely Twisted Shadow Planet/
 # Intrusion 2
 /intrusion2
+# Ironclad Tactics
+/.ironcladtactics/profile/
 # Ittle Dew
 /.config/unity3d/Ludosity/IttleDew
+# Jack Claw
+/.frozenbyte/claw/
+# Jack Lumber
+/.frozenbyte/claw/
+# Jamestown: Legend of the Lost Colony
+/.jamestown/
+# Jaspers Journeys
+/.lexaloffle/Jasper's Journeys/
+# Jazzpunk
+/.config/unity3d/Necrophone Games/Jazzpunk/
+# Journey of a Roach
+/.config/Daedalic Entertainment/Journey of a Roach/Savegames/
 # Kairo
 /.config/unity3d/Locked Door Puzzle/Kairo
+# Katawa Shoujo
+/.renpy/katawashoujo_actual
+# Kentucky Route Zero
+/Documents/KentuckyRouteZero
 # Killing Floor
 /.killingfloor
+# Knytt Underground
+/.Nifflas/Knytt Underground/
 # Legend of Dungeon
 /.config/unity3d/RobotLovesKitty/Legend of Dungeon
+# Legend of Grimrock
+/.local/share/Almost Human/Legend of Grimrock/
 # Legends of Aethereus
 /.config/unity3d/Threegates/Legends of Aethereus
+# Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
+/.config/unity3d/N_Fusion Interactive/LSLR/
 # Level 22
 /.config/unity3d/Noego/LEVEL 22
+# Limbo
+/.local/share/PlayDead/Limbo/
+# Little Inferno
+/.local/share/littleinferno/
+# Low Light Combat
+/.config/unity3d/Wolfire Games/Low Light Combat/
+# Luftrausers
+/.LUFTRAUSERS/
+# Lugaru
+/.lugaru/
+# Luxuria Superbia
+/.config/unity3d/Tale of Tales/Luxuria Superbia/
 # LYNE
 /.config/unity3d/Thomas Bowker/LYNE
+# Maia
+/.local/share/Machine_Studios/Maia/
 # Mark of the Ninja
 /.klei/ninja
+# Megabyte Punch
+/.config/unity3d/Reptile/Megabyte Punch/
+# Metal Slug 3
+/.local/share/SNK/MetalSlug3/
+# Minecraft
+/.minecraft/saves/
+# MirrorMoon EP
+/.config/unity3d/Santa Ragione/MirrorMoonEP/
+# Monaco
+/.local/share/Pocketwatch Games/Monaco/SAVEDATA/
+# Montagues Mount
+/.config/unity3d/PolyPusherStudios/MontaguesMount/
+# Mount and Blade: Warband
+/.mbwarband/Savegames/
+# MouseCraft
+/.config/unity3d/Crunching Koalas/MouseCraft/
+# Multiwinia
+/.multiwinia/
+# Natural Selection 2
+/.config/Natural Selection 2/
+# NightSky
+/.NightSky/
+# Nihilumbra
+/.config/unity3d/Beautifun Games/Nihilumbra/
+# Oil Rush
+/.OilRush/
+# OlliOlli
+/.olliolli/
+# OpenTTD
+/.openttd/
+# Organ Trail: Directors Cut
+/.config/unity3d/TheMenWhoWearManyHats/Organ Trail/
+# Osmos
+/.Osmos/
+# Overgrowth
+/.local/share/Overgrowth/
+# Painkiller: Hell and Damnation
+/.local/share/Painkiller Hell and Damnation/
+# Papers, Please
+/.local/share/3909/PapersPlease/
+# Papo and Yo
+/.local/share/Minority/PapoYo/PYGame/
 # Paranautical Activity
 /.config/unity3d/Code Avarice/Paranautical Activity Beta
+# Penny Arcades On the Rain-Slick Precipice of Darkness: Episode One
+/.HotheadGames/RainSlickEp1/
+# Penny Arcades On the Rain-Slick Precipice of Darkness: Episode Two
+/.HotheadGames/RainSlickEp2/
+# Penumbra: Black Plague
+/.frictionalgames/Penumbra/Requiem/
+# Penumbra: Overture
+/.frictionalgames/Penumbra/Overture/
 # Perfection
 /.config/Project0
+# PixelJunk Shooter
+/.local/share/PJShooter/
 # Planet Explorers
 /PlanetExplorers
+# Planetary Annihilation
+/.local/Uber Entertainment/
+# Postal
+/.local/share/PostalPlus/
+# Postal 2
+/.lgp/postal2/
+# Prison Architect
+/.Prison Architect/
 # Project Night
 /.config/unity3d/Riccardo Deias/Project Night
-# Rocket Birds
-/.local/share/rocketbirds
+# Proteus
+/.local/share/Proteus/
+# Psychonauts
+/.local/share/Psychonauts/Profiles/
+# Puddle
+/.config/Puddle/
+# Quake Live
+/.quakelive/quakelive/home/baseq3
+# Race the Sun
+/.config/unity3d/Flippfly/RaceTheSun/
+# Race To Mars
+/.config/unity3d/Intermarum/RaceToMars/
+# Receiver
+/.config/unity3d/Wolfire Games/Receiver/
+# Red Eclipse
+/.redeclipse/
+# Red Orchestra: Ostfront 41-45
+/.redorchestra/
+# Redshirt
+/Documents/Saved Games/Redshirt/
+# Reus
+/.local/share/Reus/
+# Revenge of the Titans
+/.revenge_of_the_titans_1.80/
+# Risk of Rain
+/.config/Risk_of_Rain/
+# Rochard
+/.config/unity3d/Recoil Games/Rochard/
+# Rocketbirds: Hardboiled Chicken
+# Rogue Legacy
+/.local/share/RogueLegacyStorageContainer/
 # Runner 2
 /.config/gaijin_games/runner2
+# Rush
+/.twotribes/rush/
 # Rust
 /.config/unity3d/Facepunch Studios LTD/Rust
+# Rymdkapsel
+/.config/com.grapefrukt.games.rymdkapsel1/
+# Sanctum 2
+/.local/share/Sanctum2/
+# Savant - Ascent
+/.config/Savant_Ascent/
+# Shadowgrounds
+/.frozenbyte/shadowgrounds/
+# Shadowgrounds: Survivor
+/.frozenbyte/survivor/
+# Shadowrun Returns
+/.config/Harebrained Schemes/Shadowrun Returns/Saves/
+# Shank
+/.local/share/Shank/
+# Shank 2
+/.klei/shank2/
+# Shatter
+/.sidhe/Shatter/
+# Shipwreck
+/.local/share/Brushfire Games/Shipwreck
+# Shovel Knight
+/.local/share/Yacht Club Games/Shovel Knight
+# Signal Ops
+/.signalops/
+# Skulls of the Shogun
+/.local/share/SkullsOfTheShogun/
+# Skyward Collapse
+/.config/Arcen Games, LLC/Skyward Collapse/
+# Snapshot
+/.local/share/Snapshot/
+# Snuggle Truck
+/.config/unity3d/Owlchemy Labs/Snuggle Truck/
 # Solar 2
 /.solar2
-# Surgeon Simulator
+# Soulcaster
+/.local/share/Soulcaster/
+# Soulcaster II
+/.local/share/Soulcaster2/
+# Space Hulk
+/.config/Full Control/SpaceHulk/
+# Space Pirates and Zombies
+/.local/share/SpacePiratesAndZombies/
+# Spacebase DF-9
+/.local/share/doublefine/spacebasedf9/
+# SpaceChem
+/.local/share/Zachtronics Industries/SpaceChem/
+# Spirits
+/.spirits/
+# Splice
+/.config/unity3d/Cipher Prime Studios, Inc./Splice/
+# Stacking
+/.local/share/doublefine/stacking/
+# Starseed Pilgrim
+/.appdata/StarseedPilgrim/Local Store/Starseed Pilgrim/
+# Stealth Bastard Deluxe
+/.config/StealthBastard/
+# SteamWorld Dig
+/.local/share/SteamWorldDig/
+# Steel Storm: Burning Retribution
+/.steelstorm/
+# Super Hexagon
+/.local/share/SuperHexagon/
+# Super Meat Boy
+/.local/share/SuperMeatBoy/
+# Super Splatters
+/.local/share/SpikySnail/Splatters/
+# Superbrothers: Sword and Sworcery EP
+/.capy/SwordAndSworcery/
+# Surgeon Simulator 2013
 /.config/unity3d/Bossa Studios/Surgeon Simulator 2013
+# Survivor Squad
+/.config/unity3d/Endless Loop Studios/Survivor Squad/
 # Sword of the Stars: The Pit
 /.config/ThePit
+# Swords and Soldiers
+/.ronimo-games/swords_and_soldiers/
+# Symphony
+/.local/share/Empty Clip Studios/Symphony/
+# System Shock 2
+/.systemshock2/systemshock2/drive_c/Program Files/SystemShock2/
+# Tales from Space: Mutant Blobs Attack
+/.local/share/Drinkbox Studios/Mutant Blobs Attack/
 # Teslagrad
 /.config/unity3d/unity3d/Rain/Teslagrad
-# The Book of Unwritten Tale
+# Tesseract
+/.tesseract/
+# Tetrobot and Co.
+/.config/unity3d/Swing Swing Submarine/Tetrobot and Co/
+# The 39 Steps
+/.config/unity3d/The Story Mechanics/The 39 Steps/
+# The Bards Tale
+/.local/share/BardTale/
+# The Basement Collection
+/.macromedia/Flash_Player/#SharedObjects
+# The Binding of Isaac: Rebirth
+/.local/share/binding of isaac rebirth/
+# The Book of Unwritten Tales
 /.bout
-# The Journey Down
+# The Book of Unwritten Tales: The Critter Chronicles
+/.boutvc/savegames/
+# The Cave
+# The Journey Down: Chapter One
 /.config/JourneyDownOne
+# The Journey Down: Chapter Two
+# The Powerpuff Girls: Defenders of Townsville
+# The Shivah: Kosher Edition
 # The Swapper
 /.local/share/Facepalm Games/The Swapper 1000
-# Toki Tori 2 +
+# The Witcher 2: Assassins of Kings
+# Thomas Was Alone
+# Ticket to Ride
+# Tidalis
+# Tiny and Big in Grandpas Leftovers
+# Titan Attacks
+# To the Moon
+# Toki Tori
+# Toki Tori 2+
 /.local/share/twotribes/toki_tori_2+
+# Torchlight
+# Tower of Guns
+# TowerFall Ascension
+# Train Fever
+# Transistor
+# Trine
 # Trine 2
 /.frozenbyte/Trine2
-# Type Rider
+# Tropico 5
+# Type: Rider
 /.config/unity3d/ExNihilo/Type:Rider
-
+# Ultratron
+# Uplink
+# Urban Terror
+# Vessel
+# Volgarr the Viking
+# Voxatron
+# VVVVVV
+# Waking Mars
+# Wargame: European Escalation
+# Warsow
+# Warzone 2100
+# Wasteland
+# Wasteland 2
+# Waveform
+# Wizorb
+# Wolfenstein: Enemy Territory
+# World of Goo
+# World of Padman
+# Worms Reloaded
+# X3: Terran Conflict
+# XCOM: Enemy Unknown
+# Xonotic
+# Zen Bound 2
+# Zen Puzzle Garden

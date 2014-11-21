@@ -543,19 +543,27 @@
 # The Book of Unwritten Tales: The Critter Chronicles
 /.boutvc/savegames/
 # The Cave
+/.local/share/doublefine/thecave/
 # The Journey Down: Chapter One
 /.config/JourneyDownOne
 # The Journey Down: Chapter Two
+/.config/JourneyDownTwo/
 # The Powerpuff Girls: Defenders of Townsville
+/.config/unity3d/Cartoon Network/PPG Defenders of Townsville/
 # The Shivah: Kosher Edition
+/.local/share/Shivah/
 # The Swapper
 /.local/share/Facepalm Games/The Swapper 1000
 # The Witcher 2: Assassins of Kings
+/.local/share/cdprojektred/witcher2/GameDocuments/Witcher 2/gamesaves/
 # Thomas Was Alone
+/.config/unity3d/Mike Bithell/Thomas Was Alone/
 # Ticket to Ride
+/.Ticket to Ride/
 # Tidalis
-# Tiny and Big in Grandpas Leftovers
+/.config/Arcen Games, LLC/Tidalis/
 # Titan Attacks
+/.titan_attacks/
 # To the Moon
 # Toki Tori
 # Toki Tori 2+

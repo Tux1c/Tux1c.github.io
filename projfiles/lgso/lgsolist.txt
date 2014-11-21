@@ -565,41 +565,68 @@
 # Titan Attacks
 /.titan_attacks/
 # To the Moon
+/.local/share/freebirdgames/tothemoon/
 # Toki Tori
+/.twotribes/toki_tori/
 # Toki Tori 2+
 /.local/share/twotribes/toki_tori_2+
 # Torchlight
+/.runicgames/Torchlight/save/
 # Tower of Guns
+/.local/share/TerriblePostureGames/TowerOfGuns/
 # TowerFall Ascension
-# Train Fever
+/.local/share/TowerFall/tf_saveData
 # Transistor
+/.local/share/Transistor/
 # Trine
+/.frozenbyte/trine/
 # Trine 2
 /.frozenbyte/Trine2
-# Tropico 5
 # Type: Rider
 /.config/unity3d/ExNihilo/Type:Rider
 # Ultratron
+/.ultratron/
 # Uplink
+/.uplink/
 # Urban Terror
+./q3a/q3ut4/
 # Vessel
+/.local/share/Vessel/
 # Volgarr the Viking
+/.config/Crazy Viking Studios/Volgarr the Viking/
 # Voxatron
+/.lexaloffle/Voxatron/
 # VVVVVV
+/.local/share/VVVVVV/
 # Waking Mars
+/.local/share/WakingMars/
 # Wargame: European Escalation
+/.config/EugenSystems/WarGame/saves/
 # Warsow
-# Warzone 2100
+/.warsow-1.0/basewsw/
 # Wasteland
+/.wasteland/
 # Wasteland 2
+/.config/Wasteland2/
 # Waveform
+/.local/share/Waveform/
 # Wizorb
+/Tribute Games/Wizorb/
 # Wolfenstein: Enemy Territory
+/.etwolf/
 # World of Goo
+/.WorldOfGoo/
 # World of Padman
+/.padman/
 # Worms Reloaded
+/.local/share/Team17/WormsReloaded/
 # X3: Terran Conflict
+/.config/Egosoft/X3TC/save/
 # XCOM: Enemy Unknown
+/.local/share/feral-interactive/XCOM/savedata/
 # Xonotic
+/.xonotic/data/
 # Zen Bound 2
+/.ZenBound2/
 # Zen Puzzle Garden
+/.lexaloffle/Zen Puzzle Garden/

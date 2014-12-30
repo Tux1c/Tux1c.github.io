@@ -435,6 +435,7 @@
 # Rochard
 /.config/unity3d/Recoil Games/Rochard/
 # Rocketbirds: Hardboiled Chicken
+/.local/share/rocketbirds/
 # Rogue Legacy
 /.local/share/RogueLegacyStorageContainer/
 # Runner 2

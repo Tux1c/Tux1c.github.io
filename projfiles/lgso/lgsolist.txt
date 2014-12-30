@@ -105,6 +105,7 @@
 # Broken Sword 5 - The Serpents Curse
 /.bs5/
 # Broken Sword II: The Smoking Mirror - Remastered
+/.bs2/
 # Broken Sword: Shadow of the Templars: Directors Cut
 /.bs1dc/
 # Brutal Legend

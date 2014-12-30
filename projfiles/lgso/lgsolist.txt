@@ -274,10 +274,10 @@
 /.local/share/RobotEntertainment/HeroAcademy/
 # Hoard
 /.local/share/BigSandwichGames/Hoard
-# Iesabel
-/.config/unity3d/Madman Theory Games S.A./Iesabel
 # Hotline Miami
 /.local/share/HotlineMiami/
+# Iesabel
+/.config/unity3d/Madman Theory Games S.A./Iesabel
 # Inescapable
 /.local/share/MagneticRealms/Inescapable
 # Insanely Twisted Shadow Planet

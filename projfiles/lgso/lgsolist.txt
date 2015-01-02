@@ -536,8 +536,6 @@
 /.config/unity3d/The Story Mechanics/The 39 Steps/
 # The Bards Tale
 /.local/share/BardTale/
-# The Basement Collection
-/.macromedia/Flash_Player/#SharedObjects
 # The Binding of Isaac: Rebirth
 /.local/share/binding of isaac rebirth/
 # The Book of Unwritten Tales

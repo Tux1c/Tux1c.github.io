@@ -5,7 +5,7 @@
 # 1001 Spikes
 /.local/share/1001 spikes
 # 3079
-~/3079Saves
+/3079Saves
 # 3089
 /3089
 # 3089
@@ -31,9 +31,9 @@
 # Anomaly 2
 /.Anomaly 2
 # Anomaly Defenders
-~/.Anomaly Defenders
+/.Anomaly Defenders
 # Anomaly Korea
-~/.Anomaly Korea
+/.Anomaly Korea
 # Anomaly Warzone Earth
 /.Anomaly
 # Another World

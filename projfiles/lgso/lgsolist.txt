@@ -213,7 +213,7 @@
 # Fester Mudd
 /.config/unity3d/Replay Games/Fester Mudd _ Episode 1
 # Fez
-/.local/share/Fez
+/.local/share/FEZ
 # Fieldrunners
 /.fieldrunners
 # Fieldrunners 2
@@ -362,6 +362,8 @@
 /.NightSky/
 # Nihilumbra
 /.config/unity3d/Beautifun Games/Nihilumbra
+# Nuclear Throne
+/.config/share/nuclearthrone
 # Oil Rush
 /.OilRush
 # OlliOlli

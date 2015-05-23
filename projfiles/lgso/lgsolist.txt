@@ -192,6 +192,8 @@
 /.config/unity3d/Michael Todd Games/Electronic Super Joy
 # Electronic Super Joy: Groove City
 /.config/unity3d/Yazar Media Group/Groove City
+# Empire: Total War
+/.local/share/feral-interactive/Empire
 # English Country Tune
 /.config/unity3d/increpare/English Country Tune
 # Escape Goat

@@ -365,7 +365,7 @@
 # Nihilumbra
 /.config/unity3d/Beautifun Games/Nihilumbra
 # Nuclear Throne
-/.config/share/nuclearthrone
+/.config/nuclearthrone
 # Oil Rush
 /.OilRush
 # OlliOlli
